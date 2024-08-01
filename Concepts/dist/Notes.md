@@ -46,4 +46,9 @@ interface={
 Advance Funciton = {
     Type of Function
     * Arrow Function
+    (Parameters) => return type
+    (a: number , b: number) => number
+    Example : let xx:(a:number , b:number) =>number = function myFun(a: number , b: number):number {
+    return a + b;}
 }
+
