@@ -13,7 +13,7 @@ TypeScript Types
 - Array - ordered list of data
 - Object - represent multiple properties.
 - funciton - function nameOffunction(a:type, b:type) : return type{ ... };
-- Union - to add multiple type insted of using any example : let userId: (string | number | boolean) = "abcddkjsdkf";
+- Union - to add multiple type insted of using any ; example : let userId: (string | number | boolean) = "abcddkjsdkf";
 - Void - represent constant value that may be undefined or null \* void is used function does not have return statement.
 - never - represent value that will never occur used when function never return value
 - unknown ( *not known *type safe counterpart of any)
